@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="projetos-de-poo">Projetos de Poo</h1>
 <p>Cada projeto tem uma especificação em pdf do seu proposito. Ao todo são sete práticas</p>
