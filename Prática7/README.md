@@ -1,4 +1,4 @@
-### Prática 6
+### Prática 7
 
 #### Regras de criação dos programas:
 
