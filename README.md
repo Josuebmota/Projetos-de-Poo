@@ -24,13 +24,13 @@
 
 ### Objetivo de cada prática
 
-[1. Prática 1: Operadores e sintaxe da linguagem java](https://github.com/Josuebmota/Projetos-de-Poo/tree/master/Pr%C3%A1tica1)
-[2. Prática 2: Visibilidade e encapsulamento](https://github.com/Josuebmota/Projetos-de-Poo/tree/master/Pr%C3%A1tica2)
-[3. Prática 3: Sobrecarga, Construtor e Reuso de Classe](https://github.com/Josuebmota/Projetos-de-Poo/tree/master/Pr%C3%A1tica3)
-[4. Prática 4: Passagem de parâmetro](https://github.com/Josuebmota/Projetos-de-Poo/tree/master/Pr%C3%A1tica4)
-[5. Prática 5: Polimorfismo](https://github.com/Josuebmota/Projetos-de-Poo/tree/master/Pr%C3%A1tica5)
-[6. Prática 6: Classes abstratas](https://github.com/Josuebmota/Projetos-de-Poo/tree/master/Pr%C3%A1tica6)
-[7. Prática 7: Interface Gráfica](https://github.com/Josuebmota/Projetos-de-Poo/tree/master/Pr%C3%A1tica7)
+[1. Prática 1: Operadores e sintaxe da linguagem java](https://github.com/Josuebmota/Projetos-de-Poo/tree/master/Pr%C3%A1tica1)<br>
+[2. Prática 2: Visibilidade e encapsulamento](https://github.com/Josuebmota/Projetos-de-Poo/tree/master/Pr%C3%A1tica2)<br>
+[3. Prática 3: Sobrecarga, Construtor e Reuso de Classe](https://github.com/Josuebmota/Projetos-de-Poo/tree/master/Pr%C3%A1tica3)<br>
+[4. Prática 4: Passagem de parâmetro](https://github.com/Josuebmota/Projetos-de-Poo/tree/master/Pr%C3%A1tica4)<br>
+[5. Prática 5: Polimorfismo](https://github.com/Josuebmota/Projetos-de-Poo/tree/master/Pr%C3%A1tica5)<br>
+[6. Prática 6: Classes abstratas](https://github.com/Josuebmota/Projetos-de-Poo/tree/master/Pr%C3%A1tica6)<br>
+[7. Prática 7: Interface Gráfica](https://github.com/Josuebmota/Projetos-de-Poo/tree/master/Pr%C3%A1tica7)<br>
 
 ## 🐛 Problemas
 
